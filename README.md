@@ -1,5 +1,5 @@
 # Shouty Cat
-## Restive Filter Effect module
+## Restive Filter Effect Module
 This mod is based on the Rattle Crow pedal by Lastgasp Art Laboratories. It's been modified to work better with synths/toy keyboards and to be a bit simpler and more flexible.
 
 # Notes
