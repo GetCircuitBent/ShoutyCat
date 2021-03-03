@@ -10,9 +10,9 @@ This mod is based on the Rattle Crow pedal by Lastgasp Art Laboratories. It's be
   * I have added some additional solder points to the PCB to easily connect switches for connecting/disconnecting the Caps.
   * Experiment, but I expect by using pots/crossing these points you could do some really wacky things.
   * They can also be left unconnected to let all sound through. The original uses 58pF caps, but I didn't hear any difference with those caps and nothing during my testing.
-*  The "Scream" Frequency control feel much better with a Reverse Log pot, but for cheaper builds a linera pot works fine.
+*  The "Scream" Frequency control feels much better with a Reverse Log pot IMO, but for cheaper builds a Linear pot works fine.
 *  The "Shout" Sensitivity control is adjusted for high input signals coming off of a synth/toy keyboard. Tweak this as needed for lower level signals like a guitar/line level input. (The original pedal uses a 50k pot for reference).
-*  The original pedal has a Level control that can be installed by connecting a 10k Log pot. 
+*  The original pedal has a Level control that can be installed by connecting a 10k Log pot: 
   *  Wire Output from board to Pin 2 of pot; wire Ground from board to Pin 1 of pot.
    
 #### Not required or expected by any means, but if you like it you can use the Sponsor button to buy me a beer!
