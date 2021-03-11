@@ -15,6 +15,25 @@ This mod is based on the Rattle Crow pedal by Lastgasp Art Laboratories. It's be
 *  The original pedal has a Level control that can be installed by connecting a 10k Log pot: 
   *  Wire Output from board to Pin 2 of pot; wire Ground from board to Pin 1 of pot.
 
+## Parts List
+* TL072 IC
+* 250k Linear Potentiometer
+* 1k Reverse Log (audio) Potentiometer (Linear works too for cheaper builds, it just doesn't feel as nice)
+* 2SC1815 Transistor
+* 1N4148 Diode x 2
+* Capacitors (film/ceramic):
+  * 0.1uF x 2
+  * 47nF x 2
+  * 6.8nF x 2
+  * Cut 1 Cap (see schematic) x 1
+  * Cut 2 Cap (see schematic) x 1
+* 10uF electrolytic capacitors (any voltage rating 16v or higher) x 2
+* Resistors:
+  * 100k x2
+  * 47k x3
+  * 2.2M x1
+  * 470k x1
+
 ## Demo:
 https://youtu.be/6ITLHbkJ7C4
    
